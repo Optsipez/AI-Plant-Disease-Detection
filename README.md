@@ -34,12 +34,13 @@ Expected folder structure:
 
 1. Clone the repository
    https://github.com/Optsipez/AI-Plant-Disease-Detection.git
+   
    cd AI-Plant-Disease-Detection
 
-2. Install the dependencies
+3. Install the dependencies
    pip install tensorflow opencv-python matplotlib
 
-3. Run the notebook
+4. Run the notebook
    Open PlantModel.ipynb in Jupyter Notebook and run the cells sequentially to:
    - Load and preprocess images
    - Train and evaluate the CNN model
