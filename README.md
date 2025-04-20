@@ -33,8 +33,8 @@ Expected folder structure:
 ## 🚀 Getting Started
 
 1. Clone the repository
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   https://github.com/Optsipez/AI-Plant-Disease-Detection.git
+   cd AI-Plant-Disease-Detection
 
 2. Install the dependencies
    pip install tensorflow opencv-python matplotlib
